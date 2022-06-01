@@ -152,6 +152,27 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-50364314">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.6238145">
@@ -160,8 +181,15 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="71" column="40" lean-forward="true" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
+                <state relative-caret-position="168">
+                  <caret line="561" lean-forward="true" selection-start-line="561" selection-end-line="561" />
+                  <folding>
+                    <element signature="n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#6;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#8;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#10;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -169,7 +197,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3349">
+                <state relative-caret-position="4334">
                   <caret line="197" selection-start-line="197" selection-end-line="197" selection-end-column="17" />
                 </state>
               </provider>
@@ -182,8 +210,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/css/templatemo-hexashop.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="1602" column="24" lean-forward="true" selection-start-line="1602" selection-start-column="24" selection-end-line="1602" selection-end-column="24" />
+                <state relative-caret-position="728">
+                  <caret line="2565" column="1" lean-forward="true" selection-start-line="2565" selection-start-column="1" selection-end-line="2565" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -202,9 +230,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>boujee nails &amp; spa</find>
-      <find>OH 43935</find>
-      <find>Specialties</find>
       <find>boujee-nails-spa-service-0</find>
       <find>boujee</find>
       <find>logo</find>
@@ -228,10 +253,13 @@
       <find>Services</find>
       <find>768</find>
       <find>https://www.facebook.com/coconailscolorado</find>
-      <find>Service</find>
       <find>coco-nails-service-0</find>
       <find>#men .owl-nav .owl-next</find>
       <find>Nails Gallery Spa</find>
+      <find>Service</find>
+      <find>.title-big</find>
+      <find>Deluxe Manicure</find>
+      <find>Regular Manicure</find>
     </findStrings>
     <replaceStrings>
       <replace>boujee-nails-spa-service</replace>
@@ -247,7 +275,6 @@
       <replace>coco nails</replace>
       <replace>MO 64870</replace>
       <replace>coco-nails-service-0</replace>
-      <replace />
       <replace>Nails Gallery spa</replace>
       <replace>Gallery Spa</replace>
       <replace>nails gallery spa</replace>
@@ -264,6 +291,7 @@
       <replace>https://www.facebook.com/nailsgalleryspa80238</replace>
       <replace>nails-gallery-spa-service-0</replace>
       <replace>Nails Gallery &amp; Spa</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -294,8 +322,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1007" />
+    <option name="width" value="1089" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
@@ -371,11 +398,16 @@
       <workItem from="1653449290866" duration="22000" />
       <workItem from="1653463807644" duration="7115000" />
       <workItem from="1653472556629" duration="85000" />
+      <workItem from="1653905526730" duration="1248000" />
+      <workItem from="1653967703480" duration="35000" />
+      <workItem from="1653984461489" duration="1392000" />
+      <workItem from="1654054014437" duration="173000" />
+      <workItem from="1654058739652" duration="2035000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104930000" />
+    <option name="totallyTimeSpent" value="109813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -428,22 +460,29 @@
     <entry file="file://$PROJECT_DIR$/service.html" />
     <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3349">
+        <state relative-caret-position="4334">
           <caret line="197" selection-start-line="197" selection-end-line="197" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/templatemo-hexashop.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="1602" column="24" lean-forward="true" selection-start-line="1602" selection-start-column="24" selection-end-line="1602" selection-end-column="24" />
+        <state relative-caret-position="728">
+          <caret line="2565" column="1" lean-forward="true" selection-start-line="2565" selection-start-column="1" selection-end-line="2565" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="71" column="40" lean-forward="true" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
+        <state relative-caret-position="168">
+          <caret line="561" lean-forward="true" selection-start-line="561" selection-end-line="561" />
+          <folding>
+            <element signature="n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#8;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#10;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
